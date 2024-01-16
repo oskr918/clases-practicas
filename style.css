@@ -46,20 +46,20 @@ i{
     color: #0D3A5C;
 }
 
-img{
+.header__img{
     width: 35%;
 }
 
-h1{
+.header__titulo{
     font-size: 60px;
     padding-bottom: 40px;
 }
 
-p{
+.header__parrafo{
     padding-bottom: 40px;
 }
 
-button{
+.header__btn{
     width: 200px;
     display: inline;
     padding: 15px 50px;
@@ -69,6 +69,4 @@ button{
     color: white;
 }
  
-h3{
-    text-align: end;
-}
+
